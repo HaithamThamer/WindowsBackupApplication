@@ -1,0 +1,7 @@
+D:\CurrentProjects\BackupApplication\BackupApplication\bin\Debug\BackupApplication.exe.config
+D:\CurrentProjects\BackupApplication\BackupApplication\bin\Debug\BackupApplication.exe
+D:\CurrentProjects\BackupApplication\BackupApplication\bin\Debug\BackupApplication.pdb
+D:\CurrentProjects\BackupApplication\BackupApplication\obj\Debug\BackupApplication.Properties.Resources.resources
+D:\CurrentProjects\BackupApplication\BackupApplication\obj\Debug\BackupApplication.csproj.GenerateResource.Cache
+D:\CurrentProjects\BackupApplication\BackupApplication\obj\Debug\BackupApplication.exe
+D:\CurrentProjects\BackupApplication\BackupApplication\obj\Debug\BackupApplication.pdb
